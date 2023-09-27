@@ -1,0 +1,17 @@
+
+
+.ClothesData{
+    /* border: 10px solid red; */
+   display: grid;
+   grid-template-columns: auto auto auto auto ;
+   gap: 1rem;
+   width: 96%;
+   margin-left: 2rem;
+   
+}
+
+.cards{
+   
+    width: 100%;
+   
+}
